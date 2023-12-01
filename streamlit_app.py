@@ -1,1 +1,4 @@
-//This is the main file
+import streamlit as sl
+
+sl.title("This is my Streamlit App")
+
